@@ -1,0 +1,26 @@
+const teams = [
+    { name: 'corinthians', id: '131' },
+    { name: 'palmeiras', id: '121' },
+    { name: 'sao Paulo', id: '126' },
+    { name: 'santos', id: '128' },
+    { name: 'flamengo', id: '127' },
+    { name: 'vasco', id: '133' },
+    { name: 'botafogo', id: '120' },
+    { name: 'fluminense', id: '124' },
+    { name: 'gremio', id: '130' },
+    { name: 'internacional', id: '119' },
+    { name: 'sport Recife', id: '123' },
+    { name: 'bahia', id: '118' },
+    { name: 'goias', id: '151' },
+    { name: 'fortaleza', id: '154' },
+    { name: 'ceará', id: '129' },
+    { name: 'chapecoense', id: '132' },
+    { name: 'cruzeiro', id: '135' },
+    { name: 'bragantino', id: '794' },
+    { name: 'atletico-MG', id: '1062' },
+    { name: 'atletico Paranaense', id: '134' },
+    { name: 'america Mineiro', id: '125' },
+    { name: 'atletico Goianiense', id: '144' },
+]
+
+export default teams;
